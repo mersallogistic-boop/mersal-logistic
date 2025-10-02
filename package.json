@@ -1,0 +1,21 @@
+{
+  "name": "mersal-shipping-calculator",
+  "version": "1.0.0",
+  "description": "A simple HTML-based shipping cost calculator for Mersal Shipping.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "shipping",
+    "calculator",
+    "html",
+    "javascript"
+  ],
+  "author": "Manus AI",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+
